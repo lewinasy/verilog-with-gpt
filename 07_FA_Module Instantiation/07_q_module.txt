@@ -1,0 +1,7 @@
+1. myadder라는 ha를 하나 만들고
+x를 ha의 A에, y를 ha의 B에, temp을 ha의 sum에, c를 ha의 carry에 연결
+
+2. 2
+
+3. 
+4. 
