@@ -96,7 +96,7 @@ b: 2진수
 여러 개의 입력을 작은 비트수로 압축
 
 input: Y0, Y1, Y2, Y3
-output: A, B
+output: A
 
 ### truth table
 |Y3|Y2|Y1|Y0|A|
